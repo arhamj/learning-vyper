@@ -1,5 +1,10 @@
 # Learning Vyper
 
+## Tools
+- Editor: VSCode, Vyper plugin
+- Framework: Brownie
+- Environment: Ganache
+
 ## Progression
 
 ### Brownie
