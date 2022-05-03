@@ -20,7 +20,8 @@
 - [x] Constructors
 - [x] Views and public functions
 - [x] Payable functions
-- [ ] Events
-- [ ] Listeners and clients
+- [x] Events
+
+### Exercises
 - [ ] ERC20 using vyper
 - [ ] Staking contract using vyper
